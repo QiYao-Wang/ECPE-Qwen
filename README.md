@@ -35,7 +35,7 @@ The performance comparison of our method with RNN-based models, BERT-based model
 
 ### Performance of Multiple Emotion-Cause Pairs
 
-![Multiple Emotion-Cause Pairs](images/mecp.png)
+<img src="images/mecp.png" width="60%">
 
 ### Performance of ECPE-Qwen Models with Different Parameter
 
@@ -43,9 +43,9 @@ The performance comparison of our method with RNN-based models, BERT-based model
 
 ### Performance of Different Number of Clauses
 
-![Different Number of Clauses](images/dnc.png)
+<img src="images/dnc.png" width="60%">
 
 ### Performance of Different Base Model
 
-![Different Base Model](images/dbm.png)
+<img src="images/dbm.png" width="60%">
 
