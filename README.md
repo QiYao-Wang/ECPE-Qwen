@@ -5,7 +5,7 @@ How to get the paper: please contact with the first author [[Email](wangqiyao@ma
 ![Method Pipeline](images/pipeline.png)
 
 ## 🔥 News
-- *2024.09.01* 🥳 ECPE-Qwen is accepted by CCIR 2024, and recommended to the Journal of Chinese Information Processing (CCF B).
+- *2024.09.01* 🥳 ECPE-Qwen is accepted by CCIR 2024.
 
 ## 👀 Overview
 
