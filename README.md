@@ -1,4 +1,3 @@
-# ECPE-Qwen: Zero-Shot Emotion-Cause Pair Extraction with Fine-Tuning 
-Large Language Models
+# ECPE-Qwen: Zero-Shot Emotion-Cause Pair Extraction with Fine-Tuning Large Language Models
 
 
